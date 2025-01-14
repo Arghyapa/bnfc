@@ -2,7 +2,7 @@
 
 ![images](https://github.com/Arghyapa/bnfc/blob/main/synthetic_2d.png)
 
-# Requiremnts
+# Requirements
 
 
 # How to run
