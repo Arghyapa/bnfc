@@ -1,1 +1,1 @@
-# Requirements
+# Betti Number Filtration-based Clustering (BNFC)
