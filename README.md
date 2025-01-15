@@ -12,8 +12,8 @@ An implementation of BNFC Algorithm
 - SciPy
 - seaborn
 
-# How to Install and run the project
-## Installing
+## How to Install and run the project
+### Installing
 Install the Ripser package by pip install ripser
-## Running
+### Running
 Run the real_bnfc.ipynb for the real datasets, synthetic_3d.ipynb file for the synthetic 3d datasets, synhetic_2d.ipynb file for the synthetic 2d datasets.
