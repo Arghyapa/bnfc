@@ -3,6 +3,14 @@ An implementation of BNFC Algorithm
 ![images](https://github.com/Arghyapa/bnfc/blob/main/synthetic_2d.png)
 
 # Requirements
+- NumPy
+- Pandas
+- Ripser
+- Matplotlib
+- scikit-learn
+- Gudhi
+- SciPy
+- seaborn
 
 # How to Install and run the project
 ## Installing
