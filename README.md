@@ -1,5 +1,5 @@
-## Betti Number Filtration-based Clustering (BNFC)
-An implementation of BNFC Algorithm
+## Betti Filtration-based Topological Clustering (BFTC)
+An implementation of BFTC Algorithm
 ![images](https://github.com/Arghyapa/bnfc/blob/main/synthetic_2d.png)
 
 ## Requirements
