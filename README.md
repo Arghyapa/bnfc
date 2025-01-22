@@ -1,5 +1,5 @@
 ## Betti Number Filtration-based Topological Clustering (BFTC)
-An implementation of BFTC Algorithm
+Implementation of BFTC Algorithm
 ![images](https://github.com/Arghyapa/bftc/blob/main/synthetic-2d.png)
 ## Requirements
 - NumPy
