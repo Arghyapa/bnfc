@@ -29,4 +29,4 @@ Implementation of BFTC Algorithm
 ### Installing
 Install the Ripser package by pip install Ripser. Complete documentation about the package can be found at ripser.scikit-tda.org.
 ### Running
-Run the real_bftc.ipynb for the real datasets, synthetic3d.ipynb file for the synthetic-3d datasets.
+Run the bftc.ipynb for the applying BFTC clustering.
