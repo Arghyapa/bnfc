@@ -29,4 +29,4 @@ Implementation of BFTC Algorithm
 ### Installing
 Install the Ripser package by pip install Ripser. Complete documentation about the package can be found at ripser.scikit-tda.org.
 ### Running
-Run the bftc.ipynb to apply BFTC clustering.
+Run the bftc.ipynb to apply BFTC clustering algorithm.
