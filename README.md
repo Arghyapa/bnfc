@@ -17,7 +17,7 @@ Implementation of BFTC Algorithm
 |----------------------------          |----------------|------------|----------------|
 | PhiUSIIL Phishing URL                | 235,795        | 54         | 2              |
 | Zoo                                  | 101            | 16         | 7              |
-| Wisconsin Breast Cancer(Diagonostic) | 569            | 30         | 2              |
+| Wisconsin Breast Cancer(Diagnostic) | 569            | 30         | 2              |
 | Ecoli                                | 336            | 7          | 8              |
 | ORHD                                 | 5,620          | 64         | 10             |
 | Glass                                | 214            | 9          | 7              |
